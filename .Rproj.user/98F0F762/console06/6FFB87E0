@@ -1,0 +1,51 @@
+[0m[0KMicrosoft Windows [Version 6.3.9600][0K[?25l
+(c) Корпорация Майкрософт (Microsoft Corporation), 2013. Все права защищены.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25hs[0Ks[0K[?25lC:\R\COURSERA\fars>s[0K[?25h[?25lC:\R\COURSERA\fars>[0K[?25h0[0K[?25lC:\R\COURSERA\fars>[0K[?25hл[0Kд[0Kь[0K[?25lC:\R\COURSERA\fars>лд[0K[?25h[?25lC:\R\COURSERA\fars>л[0K[?25h[?25lC:\R\COURSERA\fars>[0K[?25hь[0K[?25lC:\R\COURSERA\fars>[0K[?25hm[0Kd[0K[23G[?25lC:\R\COURSERA\fars>md v[0K[?25hi[0Kg[0Kt[0K[?25lC:\R\COURSERA\fars>md vig[0K[?25hn[0Ke[0Kt[0Kt[0Ke[0Ks[0K[?25l
+[0K
+C:\R\COURSERA\fars>[0K[?25hm[0Km[0Kd[0K[24G[23G[?25lC:\R\COURSERA\fars>mm[0K[?25h[?25lC:\R\COURSERA\fars>m[0K[?25hd[0K[23G[?25lC:\R\COURSERA\fars>md t[0K[?25he[0Ks[0Kt[0Ks[0K[?25l
+[0K
+C:\R\COURSERA\fars>[0K[?25hs[0Kw[0Kd[0K[24G[?25lC:\R\COURSERA\fars>swd t[0K[?25he[0Ks[0Kt[0Ks[0K[?25l
+"swd" не является внутренней или внешней[0K
+командой, исполняемой программой или пакетным файлом.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25hs[0Ke[0Kt[0Kw[0Kd[0K[26G[?25lC:\R\COURSERA\fars>setwd t[0K[?25he[0Ks[0Kt[0Ks[0K[?25l
+"setwd" не является внутренней или внешней[0K
+командой, исполняемой программой или пакетным файлом.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25hsetwd tests[0K[30G[29G[28G[27G[26G[25G[24G[23G[24G[25G[26G[27G[28G[29G[30G[31G[?25lC:\R\COURSERA\fars>setwd test[0K[?25h[?25lC:\R\COURSERA\fars>setwd tes[0K[?25h[?25lC:\R\COURSERA\fars>setwd te[0K[?25h[?25lC:\R\COURSERA\fars>setwd t[0K[?25h[?25lC:\R\COURSERA\fars>setwd[0K[26G[?25h[25G[?25lC:\R\COURSERA\fars>setw[0K[?25h[?25lC:\R\COURSERA\fars>set[0K[?25h[?25lC:\R\COURSERA\fars>se[0K[?25h[?25lC:\R\COURSERA\fars>s[0K[?25h[?25lC:\R\COURSERA\fars>[0K[?25hs[0Ke[0Kt[0Kw[0Kd[0K[?25l
+"setwd" не является внутренней или внешней[0K
+командой, исполняемой программой или пакетным файлом.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25h?[0K[22G[21G[?25lC:\R\COURSERA\fars>?s[0K[?25he[0Kt[0Kw[0Kd[0K[?25l
+"?setwd" не является внутренней или внешней[0K
+командой, исполняемой программой или пакетным файлом.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25h?[0K?[0Ks[0Ke[0Kt[0K[26G[?25lC:\R\COURSERA\fars>??set w[0K[?25hd[0K[?25l
+"??set" не является внутренней или внешней[0K
+командой, исполняемой программой или пакетным файлом.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25h??set wd[0K[?25lC:\R\COURSERA\fars>??set w[0K[?25h[?25lC:\R\COURSERA\fars>??set[0K[26G[?25h[25G[?25lC:\R\COURSERA\fars>??se[0K[?25h[?25lC:\R\COURSERA\fars>??s[0K[?25h[?25lC:\R\COURSERA\fars>??[0K[?25h[?25lC:\R\COURSERA\fars>?[0K[?25h[?25lC:\R\COURSERA\fars>[0K[?25hs[0Ke[0Kt[0Kw[0Kd[0K([0K'[0Kt[0Ke[0Ks[0Kt[0Ks[0K'[0K)[0K[?25l
+"setwd" не является внутренней или внешней[0K
+командой, исполняемой программой или пакетным файлом.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25ht[0Ke[0Ks[0Kt[0Ks[0K[?25l
+"tests" не является внутренней или внешней[0K
+командой, исполняемой программой или пакетным файлом.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25h[21G[20G[?25lC:\R\COURSERA\fars>w[0K[?25hd[0K[23G[?25lC:\R\COURSERA\fars>wd t[0K[?25hw[0K[?25lC:\R\COURSERA\fars>wd t[0K[?25he[0Ks[0Kt[0Ks[0K[?25l
+"wd" не является внутренней или внешней[0K
+командой, исполняемой программой или пакетным файлом.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25h[21G[?25lC:\R\COURSERA\fars> /[0K[?25ht[0Ke[0Ks[0Kt[0Ks[0K[?25l
+"/tests" не является внутренней или внешней[0K
+командой, исполняемой программой или пакетным файлом.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25h/[0K/[0Kt[0Ke[0Ks[0Kt[0Ks[0K[?25l
+Синтаксическая ошибка в имени файла, имени папки или метке тома.[0K
+[0K
+C:\R\COURSERA\fars>[0K[?25hd[0K[?25lC:\R\COURSERA\fars>[0K[?25hc[0Kd[0K[23G[?25lC:\R\COURSERA\fars>cd t[0K[?25he[0Ks[0Kt[0Ks[0K[?25l
+[0K
+C:\R\COURSERA\fars\tests>[0K[?25hm[0Kd[0K[29G[?25lC:\R\COURSERA\fars\tests>md t[0K[?25he[0Ks[0Kt[0Kt[0Kh[0Ka[0Kt[0K[?25l
+[0K[?25h[?25l
+C:\R\COURSERA\fars\tests>[0K[?25h
