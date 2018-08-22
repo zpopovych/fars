@@ -19,10 +19,10 @@
 #' }
 #'
 #' @examples
-#' \dontrun{
+#'
 #'   fars_read("accident_2014.csv.bz2")
 #'   fars_read(make_filename(2014))
-#' }
+#'
 #'
 #' @export
 #' @importFrom dplyr tbl_df
@@ -79,7 +79,7 @@ make_filename <- function(year) {
 #'   \item \code{\link[dplyr]{mutate}} and \code{\link[dplyr]{select}} in the \code{dplyr} package.
 #' }
 #'
-#'#' @examples
+#' @examples
 #' \dontrun{
 #' fars_read_years(c(2014, 2015))
 #' fars_read_years(2013:2015)

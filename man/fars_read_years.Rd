@@ -25,12 +25,14 @@ Each year in separate data frame in the same list
 \enumerate{
   \item \code{\link[dplyr]{mutate}} and \code{\link[dplyr]{select}} in the \code{dplyr} package.
 }
+}
 
-#' @examples
+\examples{
 \dontrun{
 fars_read_years(c(2014, 2015))
 fars_read_years(2013:2015)
 fars_read_years(list(2013, 2014, 2015))
 }
-}
 
+
+}
