@@ -1,6 +1,5 @@
 context("tests FARS Data")
 
-
 # test fars_read
 test_that("fars_read returns an error if filename does not exist",{
   filename_not_exist <- "filename_does_not_exist"
@@ -30,5 +29,5 @@ test_that("make_filename generates the file name",{
 
 test_that("make_filename returns a warning when passing an invalid character",{
   invalid_year = "a_string"
-  expect_warning(make_filename(invalid_year), "NAs introduced by coercion")
+  expect_warning(make_filename(invalid_year), "[:print:]*NA[:print:]*")
 })
