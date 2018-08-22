@@ -50,8 +50,8 @@ fars_read <- function(filename) {
 #' @return This function returns a character string
 #'
 #' @examples
-#' make_filename(2015)
-#' fars_read(make_filename(2015))
+#' make_filename(2014)
+#' fars_read(make_filename(2014))
 #'
 #' @export make_filename
 
