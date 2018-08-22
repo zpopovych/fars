@@ -3,7 +3,7 @@ Type: Package
 Title: FARS data package
 Version: 0.1.0
 Author: Zakhar Popovych
-Maintaine: The package maintainer <zpopovych@gmail.com>
+Maintainer: The package maintainer <zpopovych@gmail.com>
 Description: Training package example for Coursera cours to work with FARS data
 Imports: dplyr, readr, tidyr, testthat, maps, graphics
 License: GPL
