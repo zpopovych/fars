@@ -21,7 +21,7 @@
 #' @examples
 #' \dontrun{
 #'   fars_read("accident_2014.csv.bz2")
-#'   fars_read(make_filename(2015))
+#'   fars_read(make_filename(2014))
 #' }
 #'
 #' @export
@@ -50,8 +50,10 @@ fars_read <- function(filename) {
 #' @return This function returns a character string
 #'
 #' @examples
+#' \dontrun{
 #' make_filename(2014)
 #' fars_read(make_filename(2014))
+#'}
 #'
 #' @export make_filename
 

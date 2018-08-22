@@ -31,7 +31,7 @@ The FARS data should be R in the working directory
 \examples{
 \dontrun{
   fars_read("accident_2014.csv.bz2")
-  fars_read(make_filename(2015))
+  fars_read(make_filename(2014))
 }
 
 }
